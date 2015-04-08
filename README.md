@@ -1,5 +1,7 @@
 # Mercury (hg) HyperScript Input Control
 
+[![build status](https://secure.travis-ci.org/twilson63/hg-input.png)](http://travis-ci.org/twilson63/hg-input)
+
 This is a pure hyperscript input control that uses a short syntax for setting the name, id and any classes you would like to add to the input control
 
 ## Usage
