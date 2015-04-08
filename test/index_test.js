@@ -1,5 +1,5 @@
 var test = require('tap').test
-var h = require('virtual-dom/virtual-hyperscript')
+var h = require('mercury').h
 var input = require('../')
 
 test('basic input control', function(t) {
