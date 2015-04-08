@@ -1,6 +1,6 @@
 {
   "name": "hg-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mercury Pure Input Control",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,5 @@
     "capitalize": "^0.5.0",
     "xtend": "^4.0.0",
     "virtual-dom": "^2.0.1"
- }
+  }
 }
