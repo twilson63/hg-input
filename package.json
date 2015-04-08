@@ -20,5 +20,16 @@
     "capitalize": "^0.5.0",
     "xtend": "^4.0.0",
     "virtual-dom": "^2.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twilson63/hg-input.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twilson63/hg-input/issues"
+  },
+  "homepage": "https://github.com/twilson63/hg-input"
 }
